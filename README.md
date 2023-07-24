@@ -14,6 +14,10 @@ This webpage displays a scoreboard to track the scores of a game between two opp
 - Use the “+” and “-” buttons to increase or decrease the scores.
 - Click on the “Reset” button to start a new game.
 
+## License
+
+This repository is licensed under the [GNU AFFERO GENERAL PUBLIC LICENSE v-3.0](./LICENSE).
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
