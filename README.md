@@ -12,8 +12,13 @@ This webpage displays a scoreboard to track the scores of a game between two opp
 
 To use visit [score-board](https://its-triple-s.github.io/score-board/).
 - Enter the names of the two teams or players.
+
+![Screenshot 2023-07-25 233715](https://github.com/its-triple-s/score-board/assets/113439449/0ab231c4-0290-4e4f-b094-0d71b4c85f80)
+
 - Use the “+” and “-” buttons to increase or decrease the scores.
 - Click on the “Reset” button to start a new game.
+
+![Screenshot 2023-07-25 234036](https://github.com/its-triple-s/score-board/assets/113439449/a47cac7f-8d4b-4511-b696-1532dff44f74)
 
 ## License
 
