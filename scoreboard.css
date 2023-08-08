@@ -6,6 +6,8 @@ body {
 	background-image:url("https://www.cric-life.com/wp-content/uploads/2020/10/largest-cricket-grounds-in-india.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
 }
 
 p {
